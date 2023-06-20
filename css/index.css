@@ -45,7 +45,7 @@
 }
 
 .one{
-    background-image: url('hello.jpg');
+    background-image: url(../img/hello.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
