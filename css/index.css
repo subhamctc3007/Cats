@@ -45,7 +45,7 @@
 }
 
 .one{
-    background-image: url('F:/Programs/Visual Studio Code/Repositories/Cats/img/hello.jpg');
+    background-image: url('hello.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
